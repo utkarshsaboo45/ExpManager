@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Expenses</string>
+    <string name="editor_activity_title_new_expense">Add an Expense</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="hint_expense_name">Name</string>
+    <string name="hint_expense_details">Details</string>
+    <string name="hint_expense_amount">Amount</string>
+    <string name="hint_expense_discount">Discount</string>
+    <string name="expense_saved">Expense Saved!</string>
+    <string name="error_inserting_expense">Error inserting Expense!</string>
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding an expense</string>
+    <string name="editor_update_expense_failed">Update Failed!</string>
+    <string name="editor_update_expense_successful">Update successful!</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_all_expenses_dialog_msg">Delete all the data?</string>
+    <string name="delete_expense_dialog_msg">Delete this expense\'s data?</string>
+    <string name="delete">Delete</string>
+    <string name="no_delete">Don\'t Delete</string>
+</resources>
